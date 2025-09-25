@@ -1,1 +1,4 @@
-
+{
+  "message": "Hello, JSON!",
+  "success": true
+}
